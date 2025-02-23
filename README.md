@@ -1,4 +1,4 @@
-## HR Analytics SQL Portfolio
+## HR Analytics Portfolio
 
 This project analyzes HR data to gain insights into employee attrition, salary distribution, and workforce trends using SQL.
 
