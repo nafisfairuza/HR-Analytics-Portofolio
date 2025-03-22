@@ -1,4 +1,4 @@
-**HR Analytics Portfolio**
+# HR Analytics Portfolio
 
 This portfolio contains HR analytics projects using SQL for data analysis, Python for data visualization, and Pivot Tables for summarizing insights.
 
@@ -6,32 +6,32 @@ This portfolio contains HR analytics projects using SQL for data analysis, Pytho
 The dataset used in this project comes from Kaggle. You can access it here:
 🔗 [HR Analytics Dataset] (https://www.kaggle.com/datasets/davidafolayan/hr-analytics/data)  
 
-📊 1. SQL Analysis
-# Employee Attrition
+# SQL Analysis
+1. Employee Attrition
 attrition_rate.sql - Calculates the overall employee attrition rate.
 high_turnover_departments.sql - Identifies departments with the highest resignation rates.
 resignation_factors.sql - Analyzes key factors influencing employee resignations.
 
-# Salary Equity
+2.Salary Equity
 avg_salary_per_role.sql - Computes the average salary for each job role.
 gender_pay_gap.sql - Compares average salaries between male and female employees.
 salary_distribution_quartiles.sql - Analyzes salary distribution across different quartiles.
 
-# Workforce Productivity & Overtime Impact
+3. Workforce Productivity & Overtime Impact
 Salary_Growth_Analysis.py - Analyzes how salaries have changed over time using Python.
 Overtime_Resignation_Rate.py - Examines the impact of overtime on employee resignation rates.
 Salary_Overtime_Comparison.py - Compares salaries between employees who work overtime and those who don't.
 
-📊 2. Python Analysis
-# Productivity & Overtime
+# Python Analysis
+1. Productivity & Overtime
 Overtime_Resignation.py - Examines the impact of overtime on employee resignation rates.
 
-# Salary Equity
+2. Salary Equity
 analyze_salary_distribution.py - Visualizes salary distribution using histograms and boxplots.
 salary_growth_analysis.py - Analyzes how salaries have changed over time.
 salary_by_education_level.py - Compares salary levels based on employee education levels.
 
-📊 3. Pivot Table Summary
+# Pivot Table Summary
 HR Analytics Summary.xlsx - Visualizes key insights into attrition, salary equity, and productivity.
 
 📌 Conclusion
