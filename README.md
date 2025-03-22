@@ -8,18 +8,27 @@ The dataset used in this project comes from Kaggle. You can access it here:
 
 # SQL Analysis
 1. Employee Attrition
+
 attrition_rate.sql - Calculates the overall employee attrition rate.
+
 high_turnover_departments.sql - Identifies departments with the highest resignation rates.
+
 resignation_factors.sql - Analyzes key factors influencing employee resignations.
 
 2.Salary Equity
+
 avg_salary_per_role.sql - Computes the average salary for each job role.
+
 gender_pay_gap.sql - Compares average salaries between male and female employees.
+
 salary_distribution_quartiles.sql - Analyzes salary distribution across different quartiles.
 
 3. Workforce Productivity & Overtime Impact
+
 Salary_Growth_Analysis.py - Analyzes how salaries have changed over time using Python.
+
 Overtime_Resignation_Rate.py - Examines the impact of overtime on employee resignation rates.
+
 Salary_Overtime_Comparison.py - Compares salaries between employees who work overtime and those who don't.
 
 # Python Analysis
@@ -27,8 +36,11 @@ Salary_Overtime_Comparison.py - Compares salaries between employees who work ove
 Overtime_Resignation.py - Examines the impact of overtime on employee resignation rates.
 
 2. Salary Equity
+
 analyze_salary_distribution.py - Visualizes salary distribution using histograms and boxplots.
+
 salary_growth_analysis.py - Analyzes how salaries have changed over time.
+
 salary_by_education_level.py - Compares salary levels based on employee education levels.
 
 # Pivot Table Summary
